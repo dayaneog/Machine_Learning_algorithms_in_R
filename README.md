@@ -7,12 +7,12 @@ This repository contains machine learning algorithms, implemented in R for learn
 
 [Linear regression](Linear_regression.R)
 
-[Logistic regression](Machine_Learning_algorithms_in_R/Logistic_regression.R)
+[Logistic regression](Logistic_regression.R)
 
-[Qda and Lda](Machine_Learning_algorithms_in_R/Qda_and_Lda.R)
+[Qda and Lda](Qda_and_Lda.R)
 
-[Naive_bayers](Machine_Learning_algorithms_in_R/naive_bayers.R)
+[Naive_bayers](naive_bayers.R)
 
-[KNN and randon forest](Machine_Learning_algorithms_in_R/KNN_and_randon_forest.R)
+[KNN and randon forest](KNN_and_randon_forest.R)
 
 
