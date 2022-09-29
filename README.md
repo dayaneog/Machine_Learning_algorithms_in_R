@@ -1,4 +1,4 @@
-# Machine Learning algorithms in_R
+# Machine Learning algorithms in R
 
 This repository contains machine learning algorithms, implemented in R for learning purposes, developed using [RStudio](https://www.rstudio.com/)
  software. 
