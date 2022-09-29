@@ -5,7 +5,7 @@ This repository contains machine learning algorithms, implemented in R for learn
 
 **Algorithms Implemented:**
 
-[Linear regression](dayaneog/Machine_Learning_algorithms_in_R/Linear_regression.R)
+[Linear regression](Linear_regression.R)
 
 [Logistic regression](Machine_Learning_algorithms_in_R/Logistic_regression.R)
 
