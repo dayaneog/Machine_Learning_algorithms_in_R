@@ -11,7 +11,7 @@ This repository contains machine learning algorithms, implemented in R for learn
 
 [Qda and Lda](Qda_and_Lda.R)
 
-[Naive_bayers](naive_bayers.R)
+[Naive bayers](naive_bayers.R)
 
 [KNN and randon forest](KNN_and_randon_forest.R)
 
